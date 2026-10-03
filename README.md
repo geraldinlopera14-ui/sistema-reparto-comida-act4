@@ -36,7 +36,8 @@ Las dos hacen lo mismo (encolar y atender), pero de forma distinta por dentro. L
 Cuando los datos entran ya ordenados, cada número nuevo es siempre más grande que los anteriores, entonces siempre se acomoda del mismo lado y el árbol termina pareciendo una fila torcida en vez de un árbol parejo. Por eso buscar algo ahí puede tardar hasta 14 pasos en vez de 5.
 
 ## 7. Dibujo de las rotaciones AVL
-[Agregar aquí la foto del dibujo a mano]
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6b330b27-0ccf-4069-8c1e-18d718291337" />
+
 
 ## 8. Cómo ejecutar el programa
 ```bash
