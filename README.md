@@ -57,4 +57,4 @@ python experimento_arbol.py
 La fila con arreglo tiene un cupo fijo de 20 pedidos. Si se cierra el programa, se pierde todo lo registrado porque no queda guardado en ningún lado. El árbol tampoco se acomoda solo, así que si llegan muchos pedidos con números seguidos, buscar se vuelve más lento. Se podría mejorar guardando los pedidos en un archivo, y usando un árbol que se autobalancee.
 
 ## 11. Enlace al video
-[Agregar aquí]
+https://canva.link/w70mzocds2upzwv
